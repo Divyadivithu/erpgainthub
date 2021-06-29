@@ -1,2 +1,2 @@
 # erpgainthub
-Erp App
+Sample project for ERP app 
